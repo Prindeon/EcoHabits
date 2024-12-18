@@ -1,0 +1,109 @@
+{
+    "defaultTasks": [
+    {
+        "title": "Use reusable bags for shopping",
+        "description": "Take reusable bags for shopping to reduce plastic waste.",
+        "type": "daily",
+        "co2Factor": 0.25,
+        "points": 10
+    },
+    {
+        "title": "Turn off lights when leaving a room",
+        "description": "Make it a habit to turn off lights when you leave a room to save energy.",
+        "type": "daily",
+        "co2Factor": 0.15,
+        "points": 10
+    },
+    {
+        "title": "Organize trash properly",
+        "description": "Ensure all waste is sorted into the correct recycling compartments. This will help reduce waste and save the environment.",
+        "type": "daily",
+        "co2Factor": 0.1,
+        "points": 10
+    },
+    {
+        "title": "Unplug unnecessary devices before bed",
+        "description": "Disconnect TVs, chargers, and other devices from power when not in use. This will save energy and reduce your electricity bill.",
+        "type": "daily",
+        "co2Factor": 0.1, 
+        "points": 10
+    },
+    {
+        "title": "Carry reusable items",
+        "description": "Carry reusable items such as water bottles, coffee cups, and cutlery to reduce waste.",
+        "type": "daily",
+        "co2Factor": 0.1,
+        "points": 10
+    },
+    {
+        "title": "Limit water usage",
+        "description": "Turn off the tap while brushing teeth or washing dishes. This will help save water and reduce your water bill.",
+        "type": "daily",
+        "co2Factor": 0.35, 
+        "points": 10
+    },
+    {
+        "title": "Take shorter showers",
+        "description": "Take shorter showers to save water and energy. This will further help reduce your water and heating bills.",
+        "type": "daily",
+        "co2Factor": 0.3,
+        "points": 10
+    },
+    {
+        "title": "Plan meals around leftovers",
+        "description": "Plan meals around leftovers to reduce food waste. This will help save money and reduce the amount of food that goes to waste.",
+        "type": "daily",
+        "co2Factor": 0.3,
+        "points": 10
+    },
+    {
+        "title": "Layer up instead of turning up the heat",
+        "description": "Layer up with warm clothing instead of turning up the heat. This will save energy and reduce your heating bill.",
+        "type": "daily",
+        "co2Factor": 0.3,
+        "points": 10
+    },
+    {
+        "title": "Use eco-mode on appliances",
+        "description": "Always run your washing machine and dishwasher on eco mode. This will significantly reduce energy consumption in the long run.",
+        "type": "daily",
+        "co2Factor": 0.4, 
+        "points": 10
+    },
+    {
+        "title": "Eat a purely plant-based diet",
+        "description": "Animal agriculture is a leading cause of deforestation, water pollution, and greenhouse gas emissions. Reducing meat consumption can help reduce your carbon footprint.",
+        "type": "daily",
+        "co2Factor": 3,
+        "points": 10
+    },
+    {
+        "title": "Opt for public transport instead of driving",
+        "description": "Using public transport instead of driving can help reduce greenhouse gas emissions and traffic congestion.",
+        "type": "daily",
+        "co2Factor": 2,
+        "points": 10
+    },
+    {
+        "title": "Replace any your old lightbulbs with LED",
+        "description": "Reduces energy consumption by up to 75% compared to traditional bulbs and lasts significantly longer, lowering waste.",
+        "type": "challenge",
+        "co2Factor": 17,
+        "points": 10
+    },
+    {
+        "title": "Switch to renewable energy",
+        "description": "Switching to a renewable energy provider to will significantly reduce your carbon footprint and support clean energy.",
+        "type": "challenge",
+        "co2Factor": 1500,
+        "points": 70
+    },
+    {
+        "title": "Upgrade to energy-efficient appliances",
+        "description": "Upgrading to energy-efficient appliances with Energy Star ratings will save you money on your energy bills and reduce your carbon footprint.",
+        "type": "challenge",
+        "co2Factor": 100, 
+        "points": 60
+    }
+    ]
+}

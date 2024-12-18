@@ -1,0 +1,9 @@
+#root {
+  width: 375px;
+  margin: 0 auto;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #f8f8f8;
+  position: relative;
+}
+
